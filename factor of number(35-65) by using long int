@@ -1,0 +1,12 @@
+#include<stdio.h>      /*using long int loop print factor of number(35-65) between 1-100*/
+int main()
+{
+  long int a,n,fact=1;
+  printf("Enter a number/n:");
+  scanf("%ld",&n);
+  for(a=1;a<=n;a++)
+ {
+    fact=fact*a;
+  }  
+    printf("%ld",fact);
+  }  
