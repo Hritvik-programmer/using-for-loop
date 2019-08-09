@@ -1,0 +1,12 @@
+#include<stdio.h>               /*using forin loop print number between 1-100 */
+int main()
+{
+  int a=100,n;
+  printf("Enter a number:  ");
+  scanf("%d",&n);
+  
+    for(a>n;a>=n;n++)
+    
+    printf("%d ",n);
+    
+  }  
