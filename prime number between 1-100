@@ -1,0 +1,17 @@
+#include<stdio.h>               /*using forin loop print prime number between 1-100*/
+int main()
+{
+  int a,n;
+  printf("Enter a number:  ");
+  scanf("%d",&a);
+  {
+    if
+    (a==!1,a=2,a%n,a%n==!0)
+    
+  printf("prime");
+  else
+  printf("not prime");
+  }  
+    printf("%d ",a);
+    
+  }  
